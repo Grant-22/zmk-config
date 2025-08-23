@@ -23,7 +23,7 @@
 
         default_layer {
             bindings = <
-&kt SPACE  &kp NUMBER_1
+&kt SPACE  &kp A
             >;
         };
     };
